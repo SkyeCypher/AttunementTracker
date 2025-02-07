@@ -1,8 +1,0 @@
-## Interface: 30300
-## Title: Attunement Tracker
-## Notes: Tracks raid attunements for Project Ascension
-## Author: SkyeCypher
-## Version: 1.01
-## SavedVariables: AttunementTrackerDB
-
-AttunementTracker.lua
