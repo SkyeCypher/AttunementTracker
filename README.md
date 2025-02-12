@@ -1,4 +1,5 @@
 # Attunement Tracker
 Project Ascension minimap Attunement Tracker
 
-![Ascension_0aQmb7ig4y](https://github.com/user-attachments/assets/385b6185-d470-4933-bde4-d73937c84ecd)
+![Ascension_gm9a9dziMx](https://github.com/user-attachments/assets/e8075824-5613-45b2-8e13-f64b187d2490)
+
