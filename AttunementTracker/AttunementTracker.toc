@@ -2,7 +2,7 @@
 ## Title: Attunement Tracker
 ## Notes: Tracks raid attunements for Project Ascension
 ## Author: SkyeCypher
-## Version: 1.01
+## Version: 1.05
 ## SavedVariables: AttunementTrackerDB
 
 AttunementTracker.lua
